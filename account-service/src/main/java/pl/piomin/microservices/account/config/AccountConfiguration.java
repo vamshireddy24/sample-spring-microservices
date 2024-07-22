@@ -13,5 +13,4 @@ public class AccountConfiguration {
 	public AlwaysSampler defaultSampler() {
 	  return new AlwaysSampler();
 	}
-	
 }
